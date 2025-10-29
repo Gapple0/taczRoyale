@@ -1,0 +1,4 @@
+name: taczRoyale
+version: '${project.version}'
+main: me.gapple.taczroyale.TaczRoyale
+api-version: '1.20'
