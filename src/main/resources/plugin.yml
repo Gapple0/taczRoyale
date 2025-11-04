@@ -1,0 +1,4 @@
+name: taczRoyale
+version: '1.0-SNAPSHOT'
+main: me.gapple.taczRoyale.TaczRoyale
+api-version: '1.20'
