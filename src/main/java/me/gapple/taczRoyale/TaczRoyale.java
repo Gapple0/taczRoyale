@@ -12,6 +12,7 @@ public final class TaczRoyale extends JavaPlugin {
 
     @Override
     public void onDisable() {
+
         System.out.println("Plugin taczRoyale is disabled");
     }
 }
